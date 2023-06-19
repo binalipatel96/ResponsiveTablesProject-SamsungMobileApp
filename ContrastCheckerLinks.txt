@@ -1,0 +1,5 @@
+https://webaim.org/resources/contrastchecker/?fcolor=090909&bcolor=EBE6E6
+https://webaim.org/resources/contrastchecker/?fcolor=F9F7F7&bcolor=151416
+https://webaim.org/resources/contrastchecker/?fcolor=B396C0&bcolor=151416
+https://webaim.org/resources/contrastchecker/?fcolor=090909&bcolor=A3A3A3
+https://webaim.org/resources/contrastchecker/?fcolor=090909&bcolor=F9F7F7
